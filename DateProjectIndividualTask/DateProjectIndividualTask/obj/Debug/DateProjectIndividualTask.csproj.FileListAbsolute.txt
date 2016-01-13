@@ -1,0 +1,6 @@
+\\Mac\Home\Documents\CoderCamps\DateProjectIndividualTask\DateProjectIndividualTask\bin\Debug\DateProjectIndividualTask.exe.config
+\\Mac\Home\Documents\CoderCamps\DateProjectIndividualTask\DateProjectIndividualTask\bin\Debug\DateProjectIndividualTask.exe
+\\Mac\Home\Documents\CoderCamps\DateProjectIndividualTask\DateProjectIndividualTask\bin\Debug\DateProjectIndividualTask.pdb
+\\Mac\Home\Documents\CoderCamps\DateProjectIndividualTask\DateProjectIndividualTask\obj\Debug\DateProjectIndividualTask.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\CoderCamps\DateProjectIndividualTask\DateProjectIndividualTask\obj\Debug\DateProjectIndividualTask.exe
+\\Mac\Home\Documents\CoderCamps\DateProjectIndividualTask\DateProjectIndividualTask\obj\Debug\DateProjectIndividualTask.pdb

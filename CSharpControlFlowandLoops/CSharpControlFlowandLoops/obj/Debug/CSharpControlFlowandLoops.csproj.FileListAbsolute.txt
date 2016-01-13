@@ -1,0 +1,6 @@
+\\Mac\Home\Documents\CoderCamps\CSharpControlFlowandLoops\CSharpControlFlowandLoops\bin\Debug\CSharpControlFlowandLoops.exe.config
+\\Mac\Home\Documents\CoderCamps\CSharpControlFlowandLoops\CSharpControlFlowandLoops\bin\Debug\CSharpControlFlowandLoops.exe
+\\Mac\Home\Documents\CoderCamps\CSharpControlFlowandLoops\CSharpControlFlowandLoops\bin\Debug\CSharpControlFlowandLoops.pdb
+\\Mac\Home\Documents\CoderCamps\CSharpControlFlowandLoops\CSharpControlFlowandLoops\obj\Debug\CSharpControlFlowandLoops.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\CoderCamps\CSharpControlFlowandLoops\CSharpControlFlowandLoops\obj\Debug\CSharpControlFlowandLoops.exe
+\\Mac\Home\Documents\CoderCamps\CSharpControlFlowandLoops\CSharpControlFlowandLoops\obj\Debug\CSharpControlFlowandLoops.pdb

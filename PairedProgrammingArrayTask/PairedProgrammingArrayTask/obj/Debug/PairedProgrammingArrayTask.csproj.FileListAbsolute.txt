@@ -1,0 +1,6 @@
+\\Mac\Home\Documents\CoderCamps\PairedProgrammingArrayTask\PairedProgrammingArrayTask\bin\Debug\PairedProgrammingArrayTask.exe.config
+\\Mac\Home\Documents\CoderCamps\PairedProgrammingArrayTask\PairedProgrammingArrayTask\bin\Debug\PairedProgrammingArrayTask.exe
+\\Mac\Home\Documents\CoderCamps\PairedProgrammingArrayTask\PairedProgrammingArrayTask\bin\Debug\PairedProgrammingArrayTask.pdb
+\\Mac\Home\Documents\CoderCamps\PairedProgrammingArrayTask\PairedProgrammingArrayTask\obj\Debug\PairedProgrammingArrayTask.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\CoderCamps\PairedProgrammingArrayTask\PairedProgrammingArrayTask\obj\Debug\PairedProgrammingArrayTask.exe
+\\Mac\Home\Documents\CoderCamps\PairedProgrammingArrayTask\PairedProgrammingArrayTask\obj\Debug\PairedProgrammingArrayTask.pdb

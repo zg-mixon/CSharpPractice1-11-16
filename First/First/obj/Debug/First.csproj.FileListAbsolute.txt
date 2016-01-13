@@ -1,0 +1,6 @@
+\\Mac\Home\Documents\CoderCamps\First\First\bin\Debug\First.exe.config
+\\Mac\Home\Documents\CoderCamps\First\First\bin\Debug\First.exe
+\\Mac\Home\Documents\CoderCamps\First\First\bin\Debug\First.pdb
+\\Mac\Home\Documents\CoderCamps\First\First\obj\Debug\First.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\CoderCamps\First\First\obj\Debug\First.exe
+\\Mac\Home\Documents\CoderCamps\First\First\obj\Debug\First.pdb

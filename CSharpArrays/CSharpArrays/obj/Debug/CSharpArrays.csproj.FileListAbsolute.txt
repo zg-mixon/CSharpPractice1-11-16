@@ -1,0 +1,6 @@
+\\Mac\Home\Documents\CoderCamps\CSharpArrays\CSharpArrays\bin\Debug\CSharpArrays.exe.config
+\\Mac\Home\Documents\CoderCamps\CSharpArrays\CSharpArrays\bin\Debug\CSharpArrays.exe
+\\Mac\Home\Documents\CoderCamps\CSharpArrays\CSharpArrays\bin\Debug\CSharpArrays.pdb
+\\Mac\Home\Documents\CoderCamps\CSharpArrays\CSharpArrays\obj\Debug\CSharpArrays.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\CoderCamps\CSharpArrays\CSharpArrays\obj\Debug\CSharpArrays.exe
+\\Mac\Home\Documents\CoderCamps\CSharpArrays\CSharpArrays\obj\Debug\CSharpArrays.pdb
